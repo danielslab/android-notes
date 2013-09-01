@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_share"
+        android:orderInCategory="100"
+        android:title="@string/menu_share"/>
+    <item
+        android:id="@+id/menu_delete"
+        android:orderInCategory="200"
+        android:title="@string/menu_delete"/>
+    <item
+        android:id="@+id/menu_bullet"
+        android:orderInCategory="300"
+        android:title="@string/menu_bullet"/>
+
+</menu>
